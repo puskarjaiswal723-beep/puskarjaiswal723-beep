@@ -21,3 +21,19 @@ I enjoy solving problems, building machine learning projects, and learning new t
 - **AI/ML:** NumPy, Pandas, Scikit-learn
 - **Core CS:** Data Structures and Algorithms
 - **Currently learning:** Deep Learning and MLOps
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0392-is-subsequence) |
+<!---LeetCode Topics End-->

@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**puskarjaiswal723-beep/puskarjaiswal723-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Puskar Jaiswal 👋
 
-Here are some ideas to get you started:
+### AI & ML Engineering Student | Java | DSA | Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving problems, building machine learning projects, and learning new technologies.
+
+## LeetCode Profile
+
+[![LeetCode Profile](https://leetcard.jacoblin.cool/Puskar_jaiswal_723?theme=dark&ext=activity)](https://leetcode.com/u/Puskar_jaiswal_723/)
+
+[View my LeetCode profile](https://leetcode.com/u/Puskar_jaiswal_723/)
+
+## GitHub Activity
+
+<!-- Your GitHub contribution graph appears automatically on your profile below. -->
+
+## Skills
+
+- **Languages:** Java, Python, C
+- **AI/ML:** NumPy, Pandas, Scikit-learn
+- **Core CS:** Data Structures and Algorithms
+- **Currently learning:** Deep Learning and MLOps

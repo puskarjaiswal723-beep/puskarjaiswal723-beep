@@ -42,10 +42,12 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | ------- |
 | [0377-combination-sum-iv](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0377-combination-sum-iv) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |

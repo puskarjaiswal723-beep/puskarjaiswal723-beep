@@ -34,11 +34,13 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | ------- |
 | [0392-is-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0392-is-subsequence) |
 | [0433-minimum-genetic-mutation](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0433-minimum-genetic-mutation) |
+| [0583-delete-operation-for-two-strings](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0583-delete-operation-for-two-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0377-combination-sum-iv](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0392-is-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0583-delete-operation-for-two-strings) |
 | [3693-climbing-stairs-ii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3693-climbing-stairs-ii) |
 ## Array
 |  |
@@ -73,4 +75,8 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0433-minimum-genetic-mutation) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0583-delete-operation-for-two-strings) |
 <!---LeetCode Topics End-->

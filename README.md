@@ -33,6 +33,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0392-is-subsequence) |
+| [0433-minimum-genetic-mutation](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0433-minimum-genetic-mutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,4 +61,16 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+## Hash Table
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0433-minimum-genetic-mutation) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0433-minimum-genetic-mutation) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->

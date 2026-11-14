@@ -28,6 +28,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0392-is-subsequence) |
+| [2396-strictly-palindromic-number](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2396-strictly-palindromic-number) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## String
 |  |
@@ -59,6 +60,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2396-strictly-palindromic-number](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2396-strictly-palindromic-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
@@ -113,4 +115,8 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3364-minimum-positive-sum-subarray) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

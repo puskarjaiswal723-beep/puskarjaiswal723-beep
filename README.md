@@ -49,6 +49,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -96,6 +97,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 ## Sliding Window
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
@@ -105,4 +107,8 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->

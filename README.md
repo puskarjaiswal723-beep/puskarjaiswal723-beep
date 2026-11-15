@@ -144,4 +144,8 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0416-partition-equal-subset-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->

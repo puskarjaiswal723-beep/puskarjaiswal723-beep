@@ -1,17 +1,19 @@
 class Solution {
     public int numOfSubarrays(int[] arr) {
-        int prefix=0,even=1,odd=0,count=0;
-    int mod=1000000007;
-        for(int i=0;i<arr.length;i++){
-            prefix+=arr[i];
-            if(prefix%2==0){
-                count=(count+odd)%mod;
-                even++;
+        int mod=1000000007;
+        int count=0,o=0,sum=0;
+        int e=1;
+        for(int x:arr){
+            sum+=x;
+            if(sum%2==0){
+                count=(count+o)%mod;
+                e++;
             }
             else{
-                count=(count+even)%mod;
-                odd++;
+                count=(count+e)%mod;
+                o++;
             }
         }
-    return count;}
+return count;
+    }
 }

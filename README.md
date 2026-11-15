@@ -43,6 +43,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | ------- |
 | [0377-combination-sum-iv](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0583-delete-operation-for-two-strings) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -51,6 +52,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [0377-combination-sum-iv](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0377-combination-sum-iv) |
+| [0416-partition-equal-subset-sum](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -134,4 +136,12 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1673-find-the-most-competitive-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->

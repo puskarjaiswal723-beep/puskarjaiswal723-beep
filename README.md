@@ -51,6 +51,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0057-insert-interval) |
 | [0377-combination-sum-iv](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |

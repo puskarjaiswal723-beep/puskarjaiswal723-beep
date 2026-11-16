@@ -38,6 +38,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [0516-longest-palindromic-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0583-delete-operation-for-two-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,4 +150,8 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0476-number-complement) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->

@@ -43,6 +43,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [1745-palindrome-partitioning-iv](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1745-palindrome-partitioning-iv) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Dynamic Programming
 |  |
 | ------- |

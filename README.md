@@ -170,6 +170,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0785-is-graph-bipartite) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Union-Find
 |  |
 | ------- |
@@ -186,4 +187,12 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0785-is-graph-bipartite) |
+## Tree
+|  |
+| ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1325-delete-leaves-with-a-given-value) |
+## Binary Tree
+|  |
+| ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1325-delete-leaves-with-a-given-value) |
 <!---LeetCode Topics End-->

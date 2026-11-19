@@ -109,6 +109,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0094-binary-tree-inorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1673-find-the-most-competitive-subsequence) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -169,6 +170,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0785-is-graph-bipartite](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0785-is-graph-bipartite) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Union-Find
@@ -190,9 +192,11 @@ I enjoy solving problems, building machine learning projects, and learning new t
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0094-binary-tree-inorder-traversal) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0094-binary-tree-inorder-traversal) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1325-delete-leaves-with-a-given-value) |
 <!---LeetCode Topics End-->

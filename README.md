@@ -36,6 +36,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | ------- |
 | [0071-simplify-path](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0071-simplify-path) |
 | [0392-is-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0394-decode-string) |
 | [0433-minimum-genetic-mutation](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0583-delete-operation-for-two-strings) |
@@ -112,6 +113,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | ------- |
 | [0071-simplify-path](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0394-decode-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1673-find-the-most-competitive-subsequence) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -201,4 +203,8 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0094-binary-tree-inorder-traversal) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1325-delete-leaves-with-a-given-value) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->

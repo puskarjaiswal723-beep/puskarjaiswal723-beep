@@ -62,6 +62,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0041-first-missing-positive) |
 | [0057-insert-interval](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0057-insert-interval) |
 | [0377-combination-sum-iv](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0416-partition-equal-subset-sum) |
@@ -94,6 +95,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0041-first-missing-positive) |
 | [0433-minimum-genetic-mutation](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0433-minimum-genetic-mutation) |
 ## Breadth-First Search
 |  |

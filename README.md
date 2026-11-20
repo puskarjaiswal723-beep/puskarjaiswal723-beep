@@ -58,6 +58,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1745-palindrome-partitioning-iv](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1745-palindrome-partitioning-iv) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3693-climbing-stairs-ii) |
 ## Array
 |  |
@@ -70,6 +71,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3364-minimum-positive-sum-subarray) |
@@ -88,6 +90,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Matrix
 |  |
 | ------- |

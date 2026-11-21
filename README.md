@@ -204,12 +204,14 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0450-delete-node-in-a-bst) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0450-delete-node-in-a-bst) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Recursion
 |  |
@@ -223,4 +225,8 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->

@@ -180,6 +180,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0785-is-graph-bipartite) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Union-Find
@@ -202,14 +203,24 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Recursion
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0394-decode-string) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->

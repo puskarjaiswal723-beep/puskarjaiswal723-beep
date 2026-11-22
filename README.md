@@ -43,6 +43,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1278-palindrome-partitioning-iii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1278-palindrome-partitioning-iii) |
 | [1745-palindrome-partitioning-iv](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1745-palindrome-partitioning-iv) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |

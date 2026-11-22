@@ -42,6 +42,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [0583-delete-operation-for-two-strings](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0583-delete-operation-for-two-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1278-palindrome-partitioning-iii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1278-palindrome-partitioning-iii) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1745-palindrome-partitioning-iv](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1745-palindrome-partitioning-iv) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -57,6 +58,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [0583-delete-operation-for-two-strings](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0583-delete-operation-for-two-strings) |
 | [1278-palindrome-partitioning-iii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1278-palindrome-partitioning-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1745-palindrome-partitioning-iv](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1745-palindrome-partitioning-iv) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -121,6 +123,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [0094-binary-tree-inorder-traversal](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1673-find-the-most-competitive-subsequence) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Segment Tree

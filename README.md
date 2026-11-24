@@ -46,6 +46,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [1745-palindrome-partitioning-iv](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1745-palindrome-partitioning-iv) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2384-largest-palindromic-number](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2384-largest-palindromic-number) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Dynamic Programming
@@ -108,6 +109,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [0041-first-missing-positive](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0041-first-missing-positive) |
 | [0433-minimum-genetic-mutation](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0433-minimum-genetic-mutation) |
 | [1110-delete-nodes-and-return-forest](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1110-delete-nodes-and-return-forest) |
+| [2384-largest-palindromic-number](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2384-largest-palindromic-number) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -168,6 +170,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1673-find-the-most-competitive-subsequence) |
+| [2384-largest-palindromic-number](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2384-largest-palindromic-number) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Knapsack Problem
 |  |
@@ -241,4 +244,8 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0450-delete-node-in-a-bst) |
+## Counting
+|  |
+| ------- |
+| [2384-largest-palindromic-number](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2384-largest-palindromic-number) |
 <!---LeetCode Topics End-->

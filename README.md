@@ -85,6 +85,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3934-smallest-unique-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +111,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [0433-minimum-genetic-mutation](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0433-minimum-genetic-mutation) |
 | [1110-delete-nodes-and-return-forest](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1110-delete-nodes-and-return-forest) |
 | [2384-largest-palindromic-number](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2384-largest-palindromic-number) |
+| [3934-smallest-unique-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3934-smallest-unique-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -244,8 +246,21 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0450-delete-node-in-a-bst) |
+| [3934-smallest-unique-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3934-smallest-unique-subarray) |
 ## Counting
 |  |
 | ------- |
 | [2384-largest-palindromic-number](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2384-largest-palindromic-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->

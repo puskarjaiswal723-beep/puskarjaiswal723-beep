@@ -92,6 +92,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2396-strictly-palindromic-number](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2396-strictly-palindromic-number) |
+| [3360-stone-removal-game](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
@@ -190,6 +191,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3360-stone-removal-game) |
 ## Depth-First Search
 |  |
 | ------- |

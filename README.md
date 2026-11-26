@@ -81,6 +81,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2615-sum-of-distances](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2615-sum-of-distances) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -118,6 +119,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [0767-reorganize-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0767-reorganize-string) |
 | [1110-delete-nodes-and-return-forest](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1110-delete-nodes-and-return-forest) |
 | [2384-largest-palindromic-number](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2384-largest-palindromic-number) |
+| [2615-sum-of-distances](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2615-sum-of-distances) |
 | [3934-smallest-unique-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3934-smallest-unique-subarray) |
 ## Breadth-First Search
 |  |
@@ -170,6 +172,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2615-sum-of-distances](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2615-sum-of-distances) |
 | [3364-minimum-positive-sum-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3364-minimum-positive-sum-subarray) |
 ## Brainteaser
 |  |

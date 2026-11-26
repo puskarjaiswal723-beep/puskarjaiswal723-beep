@@ -40,6 +40,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [0433-minimum-genetic-mutation](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0583-delete-operation-for-two-strings) |
+| [0767-reorganize-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1278-palindrome-partitioning-iii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1278-palindrome-partitioning-iii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -98,6 +99,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0767-reorganize-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0767-reorganize-string) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Matrix
@@ -110,6 +112,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | ------- |
 | [0041-first-missing-positive](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0041-first-missing-positive) |
 | [0433-minimum-genetic-mutation](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0433-minimum-genetic-mutation) |
+| [0767-reorganize-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0767-reorganize-string) |
 | [1110-delete-nodes-and-return-forest](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1110-delete-nodes-and-return-forest) |
 | [2384-largest-palindromic-number](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2384-largest-palindromic-number) |
 | [3934-smallest-unique-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3934-smallest-unique-subarray) |
@@ -171,6 +174,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 ## Greedy
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2384-largest-palindromic-number](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2384-largest-palindromic-number) |
@@ -252,6 +256,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 ## Counting
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0767-reorganize-string) |
 | [2384-largest-palindromic-number](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2384-largest-palindromic-number) |
 ## Rolling Hash
 |  |
@@ -265,4 +270,8 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3934-smallest-unique-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->

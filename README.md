@@ -80,6 +80,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [1673-find-the-most-competitive-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -102,6 +103,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0767-reorganize-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0767-reorganize-string) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Matrix
 |  |
@@ -167,6 +169,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3364-minimum-positive-sum-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3364-minimum-positive-sum-subarray) |
 ## Brainteaser
 |  |
@@ -254,6 +257,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0450-delete-node-in-a-bst) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3934-smallest-unique-subarray](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3934-smallest-unique-subarray) |
 ## Counting
 |  |

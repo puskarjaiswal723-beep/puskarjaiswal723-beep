@@ -43,6 +43,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [0767-reorganize-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1278-palindrome-partitioning-iii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1278-palindrome-partitioning-iii) |
+| [1405-longest-happy-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1405-longest-happy-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1745-palindrome-partitioning-iv](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1745-palindrome-partitioning-iv) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -176,6 +177,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | ------- |
 | [0767-reorganize-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1405-longest-happy-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1405-longest-happy-string) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2384-largest-palindromic-number](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2384-largest-palindromic-number) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -274,4 +276,5 @@ I enjoy solving problems, building machine learning projects, and learning new t
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0767-reorganize-string) |
+| [1405-longest-happy-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1405-longest-happy-string) |
 <!---LeetCode Topics End-->

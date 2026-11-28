@@ -77,6 +77,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [0377-combination-sum-iv](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0946-validate-stack-sequences](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0946-validate-stack-sequences) |
 | [1110-delete-nodes-and-return-forest](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1110-delete-nodes-and-return-forest) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -144,6 +145,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 | [0071-simplify-path](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0394-decode-string) |
+| [0946-validate-stack-sequences](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0946-validate-stack-sequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -207,6 +209,7 @@ I enjoy solving problems, building machine learning projects, and learning new t
 ## Simulation
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/0946-validate-stack-sequences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3360-stone-removal-game](https://github.com/puskarjaiswal723-beep/puskarjaiswal723-beep/tree/master/3360-stone-removal-game) |
 ## Depth-First Search
